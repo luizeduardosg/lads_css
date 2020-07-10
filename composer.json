@@ -18,6 +18,9 @@
         }
     ],
     "minimum-stability": "stable",
+    "config": {
+        "vendor-dir": "libs"
+    },
     "require": {
         "phpmailer/phpmailer": "6.1.*"
     }
