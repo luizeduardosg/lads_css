@@ -1,0 +1,24 @@
+{
+    "name": "luize/css",
+    "description": "Framework CSS desenvolvido para o sistema  da empresa Lads System.",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Luiz Eduardo",
+            "email": "luizeduardosg@hotmail.com",
+            "role": "CEO",
+            "homepage": "https://www.ladssystem.com.br"
+        },
+        {
+            "name": "Danilo F. Silva",
+            "email": "dfsilva09@gmail.com",
+            "role": "CMO",
+            "homepage": "https://www.ladssystem.com.br"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {
+        "phpmailer/phpmailer": "6.1.*"
+    }
+}
